@@ -2,6 +2,10 @@
 
 Send Emails automatically from your own projects.
 
+## Setting up
+
+Create a gmail account and turn 2FA on, Create a new app password and use that as your password for nodemailer. Edit your email and password inside the sendEmail.js file inside of the functions folder (Line 8 & 9)
+
 ## Npm packages used:
 
 [Nodemailer](https://www.npmjs.com/package/nodemailer)
